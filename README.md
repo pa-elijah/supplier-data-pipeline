@@ -106,7 +106,7 @@ This script will:
 
 ---
 
-## Running the Pipeline with Make
+## 7. Running the Pipeline with Make
 
 For convenience, you can run the entire ETL + analysis pipeline using the `Makefile`:
 
